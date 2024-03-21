@@ -1,4 +1,4 @@
-package sk.demo.springboot;
+package sk.demo.springboot.repository;
 
 
 import java.util.UUID;
